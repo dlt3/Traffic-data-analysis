@@ -13,15 +13,8 @@ Traffic data analysis can be applied in various fields. For example, it can be u
 
 
 ```bash
-├── Hyperspectral-Data-Analysis[2021] 
-│   ├── Model_Fitting.ipynb
-│   ├── Fitting_result.ipynb
-│   └── Paper_code.ipynb
-├── Hyperspectral-Data-Analysis[2022]
-│   ├── Training_code.ipynb
-│   ├── Testing.ipynb  
-│   ├── Dataset_code.ipynb
-│   └── Prediction_code.ipynb
-└── PLS
-    └── PLS_components.ipynb
+├── hyperparameter_tuning.ipynb
+├── traffic_data_binary_classification.ipynb
+├── traffic_data_multiclass_classification.ipynb
+└── traffic_data_xai.ipynb
 ```
