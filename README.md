@@ -53,7 +53,7 @@ Traffic data analysis can be applied in various fields. For example, it can be u
 
 ## Traffic data analysis (multi-class classification)
 
-### analysis purpose
+### Analysis purpose
 
 - Development of a machine learning-based injury classification model for traffic accident data
 - Identification of factors affecting the degree of driver's injury in the event of an accident through analysis results
@@ -89,6 +89,9 @@ Traffic data analysis can be applied in various fields. For example, it can be u
      3-1. Identification of factors affecting the degree of driver injury by comparing the variable importance in machine learning and variable importance in SHAP for the classification results of the machine learning model with optimal performance
     
      3-2. Interpretation of the classification result of the model using LIME for the classification result of the model
+
+
+
 
 
 ```bash
