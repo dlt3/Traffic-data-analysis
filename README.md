@@ -2,6 +2,10 @@
 
 Traffic data analysis is a very important process to solve the problem of urban traffic congestion. Through traffic data analysis, you can determine the causes of traffic jams and find ways to solve them.
 
+#### Reference
+- https://www.hindawi.com/journals/mpe/2023/1956865/
+- https://doi.org/10.1155/2023/1956865
+
 ### Traffic Data Collection
 Traffic data can be collected in a number of ways. Typical methods include traffic cameras, vehicle recognition sensors, and GPS. By collecting this data, you can get information about where traffic jams occur, traffic volume, vehicle speed, and more.
 
